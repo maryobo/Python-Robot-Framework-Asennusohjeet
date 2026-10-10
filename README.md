@@ -1,4 +1,4 @@
-# Asennusohjeet: Robot Framework ja ProSim 8
+# Asennusohjeet: Python, Robot Framework ja ProSim 8
 
 Tässä ohjeessa asennetaan testausympäristö Windows- tai macOS-tietokoneelle. Lisäksi tarkistetaan yhteys ProSim 8 -laitteeseen ja tallennetaan projekti tarvittaessa GitHubiin.
 
