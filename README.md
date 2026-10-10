@@ -475,5 +475,5 @@ git push
 - [Node.js:n ja npm:n asennus](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/)
 - [Node.js VS Codessa](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
 - [ProSim 8:n tiedonsiirto-ohje, versio 3.17](https://www.flukebiomedical.com/sites/default/files/software/prosim8_-_communications_interface_ver3.17.pdf)
-- [Paikallisen projektin lisääminen GitHubiin](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)# Python-Robot-Framework-Asennusohjeet
+- [Paikallisen projektin lisääminen GitHubiin](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
 
